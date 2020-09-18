@@ -74,7 +74,7 @@ function log(level, msg, ...splat) {
   
 - simple: serializes the entire info message
 
-## 3.thought
+## 3.Thought
 - without format splat
 	> supports the existing API - `logger.info(level,message,metadata)`
 
