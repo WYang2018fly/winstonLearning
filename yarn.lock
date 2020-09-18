@@ -112,6 +112,11 @@ kuler@^2.0.0:
   resolved "https://registry.npm.taobao.org/kuler/download/kuler-2.0.0.tgz#e2c570a3800388fb44407e851531c1d670b061b3"
   integrity sha1-4sVwo4ADiPtEQH6FFTHB1nCwYbM=
 
+lodash@^4.17.20:
+  version "4.17.20"
+  resolved "https://registry.npm.taobao.org/lodash/download/lodash-4.17.20.tgz?cache=0&sync_timestamp=1597336053864&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Flodash%2Fdownload%2Flodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
+  integrity sha1-tEqbYpe8tpjxxRo1RaKzs2jVnFI=
+
 logform@^2.2.0:
   version "2.2.0"
   resolved "https://registry.npm.taobao.org/logform/download/logform-2.2.0.tgz?cache=0&sync_timestamp=1592729609862&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Flogform%2Fdownload%2Flogform-2.2.0.tgz#40f036d19161fc76b68ab50fdc7fe495544492f2"
